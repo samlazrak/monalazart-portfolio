@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import { transparentize, readableColor } from 'polished';
 import styled from 'styled-components';
@@ -143,9 +143,11 @@ const Project: React.FunctionComponent<PageProps> = ({
       </Content>
       <PBox style={{ textAlign: 'center' }} py={10} px={[6, 6, 8, 10]}>
         <h2>Want to start your own project?</h2>
-        <PButton color={project.color} py={4} px={8}>
-          Contact Us
-        </PButton>
+        <Link to="/commissions">
+          <PButton color={project.color} py={4} px={8}>
+            Contact Us
+          </PButton>
+        </Link>
       </PBox>
     </Layout>
   );

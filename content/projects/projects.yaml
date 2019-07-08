@@ -1,42 +1,32 @@
-- title: 'Art1'
-  title_detail: 'Art - lots of it'
-  slug: '1'
-  category: 'Street Art'
-  color: 'black'
-  images: '1'
-  cover: './1/projects-1-001.jpg'
-  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et faucibus risus, et cursus sem. Pellentesque a facilisis urna. Sed semper ut nisi sit amet molestie. Fusce tellus nibh, porta dictum sem tempus, pellentesque tempor nisl. Sed lacinia orci ac felis elementum, quis efficitur augue volutpat. Phasellus ut ornare nibh. Donec dignissim non massa at egestas. Donec sed mauris elit. Vivamus a urna efficitur, dapibus ligula consequat, elementum lacus. Phasellus efficitur at diam non porttitor. Vivamus dolor sapien, malesuada quis urna eu, viverra ultrices lorem. Integer lacus turpis, sagittis sed dolor eu, tincidunt tempus erat. Sed maximus faucibus volutpat. Maecenas pharetra tellus lorem. Fusce iaculis ultricies nunc, et ullamcorper nisi maximus ut.
-
-Quisque tellus ipsum, tempus in molestie eget, hendrerit eget eros. Maecenas auctor elit in dui rutrum tincidunt. Fusce quis maximus orci. Duis scelerisque suscipit purus non varius. Fusce eget massa ut sapien laoreet feugiat eu vitae magna. Donec at elit non mi laoreet blandit sit amet vitae quam. Mauris orci ex, congue ut nisi a, ultricies rutrum erat. Duis ut orci et ligula elementum scelerisque in nec diam."
-- title: '2'
-  title_detail: '2'
-  slug: '2'
-  category: 'Trend'
-  color: '#90BDDF'
-  images: '2'
-  cover: './2/projects-2-001.jpg'
-  desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et faucibus risus, et cursus sem. Pellentesque a facilisis urna. Sed semper ut nisi sit amet molestie. Fusce tellus nibh, porta dictum sem tempus, pellentesque tempor nisl. Sed lacinia orci ac felis elementum, quis efficitur augue volutpat. Phasellus ut ornare nibh. Donec dignissim non massa at egestas. Donec sed mauris elit.'
-- title: 'Black & White'
-  title_detail: 'Black & White - Superb art'
-  slug: '3'
-  category: '3'
-  color: 'white'
-  images: '3'
-  cover: './3/projects-3-001.jpg'
-  desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et faucibus risus, et cursus sem. Pellentesque a facilisis urna. Sed semper ut nisi sit amet molestie. Fusce tellus nibh, porta dictum sem tempus, pellentesque tempor nisl. Sed lacinia orci ac felis elementum, quis efficitur augue volutpat. Phasellus ut ornare nibh. Donec dignissim non massa at egestas. Donec sed mauris elit. Vivamus a urna efficitur, dapibus ligula consequat, elementum lacus. Phasellus efficitur at diam non porttitor. Vivamus dolor sapien, malesuada quis urna eu, viverra ultrices lorem. Integer lacus turpis, sagittis sed dolor eu, tincidunt tempus erat. Sed maximus faucibus volutpat. Maecenas pharetra tellus lorem. Fusce iaculis ultricies nunc, et ullamcorper nisi maximus ut.'
-- title: '4'
-  title_detail: '4 - The most important time of the day'
-  slug: '4'
-  category: 'Photography'
-  color: '#82726b'
-  images: '4'
-  cover: './4/projects-4-001.jpg'
-  desc: 'Lorem ipsum dolor sit amet, '
-- title: '5'
-  title_detail: '5 - The most important time of the day'
-  slug: '5'
-  category: 'Photography'
-  color: '#82726b'
-  images: '5'
-  cover: './5/projects-5-001.jpg'
-  desc: 'Lorem ipsum dolor sit amet, '
+- title: "Color"
+  title_detail: "Color - In all its glory"
+  slug: "/color-in-all-its-glory"
+  category: "Street Art"
+  color: "black"
+  images: "color"
+  cover: "./color/projects-color-001.jpg"
+  desc: "Color (American English), or colour (Commonwealth English), is the characteristic of human visual perception described through color categories, with names such as red, orange, yellow, green, blue, or purple. This perception of color derives from the stimulation of cone cells in the human eye by electromagnetic radiation in the visible spectrum. Color categories and physical specifications of color are associated with objects through the wavelength of the light that is reflected from them. This reflection is governed by the object's physical properties such as light absorption, emission spectra, etc."
+- title: "Extreme Neon"
+  title_detail: "Extreme Neon - What is this trend about?"
+  slug: "extreme-neon-what-is-this-trend-about"
+  category: "Trend"
+  color: "#90BDDF"
+  images: "neon"
+  cover: "./neon/projects-neon-001.jpg"
+  desc: "Neon gives a distinct reddish-orange glow when used in low-voltage neon glow lamps, high-voltage discharge tubes and neon advertising signs. The red emission line from neon also causes the well known red light of helium–neon lasers. Neon is used in some plasma tube and refrigerant applications but has few other commercial uses. It is commercially extracted by the fractional distillation of liquid air. Since air is the only source, it is considerably more expensive than helium."
+- title: "Black & White"
+  title_detail: "Black & White - Superb art"
+  slug: "black-and-white-superb-art"
+  category: "Still"
+  color: "white"
+  images: "bw"
+  cover: "./bw/projects-bw-001.jpg"
+  desc: "Monochrome photography is photography where each position on an image can record and show a different amount of light, but not a different hue. It includes all forms of black-and-white photography, which produce images containing tones of neutral grey ranging from black to white."
+- title: "Breakfast"
+  title_detail: "Breakfast - The most important time of the day"
+  slug: "breakfast"
+  category: "Photography"
+  color: "#82726b"
+  images: "breakfast"
+  cover: "./breakfast/projects-breakfast-001.jpg"
+  desc: "The first meal of the day."
