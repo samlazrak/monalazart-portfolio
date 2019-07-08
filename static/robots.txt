@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://monalazart.com/sitemap.xml
