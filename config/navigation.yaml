@@ -1,4 +1,6 @@
 - name: 'Projects'
   link: '/projects'
+- name: 'commissions'
+  link: '/commissions'
 - name: 'About'
   link: '/about'

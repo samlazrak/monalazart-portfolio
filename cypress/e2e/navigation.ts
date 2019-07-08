@@ -23,6 +23,14 @@ describe('navigation', () => {
     });
     cy.assertRoute('/instagram');
   });
+  it('link to commissions works', () => {
+    cy.get('nav').within(() => {
+      cy.getByText(/commissions/i)
+        .click({ force: true })
+        .waitForRouteChange();
+    });
+    cy.assertRoute('/commissions');
+  });
   it('link to about works', () => {
     cy.get('nav').within(() => {
       cy.getByText(/about/i)
